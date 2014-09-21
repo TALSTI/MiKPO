@@ -1,0 +1,6 @@
+c:\users\скат\documents\visual studio 2012\Projects\TriangleParams\TriangleParams\bin\Debug\TriangleParams.exe.config
+c:\users\скат\documents\visual studio 2012\Projects\TriangleParams\TriangleParams\bin\Debug\TriangleParams.exe
+c:\users\скат\documents\visual studio 2012\Projects\TriangleParams\TriangleParams\bin\Debug\TriangleParams.pdb
+c:\users\скат\documents\visual studio 2012\Projects\TriangleParams\TriangleParams\obj\Debug\TriangleParams.csprojResolveAssemblyReference.cache
+c:\users\скат\documents\visual studio 2012\Projects\TriangleParams\TriangleParams\obj\Debug\TriangleParams.exe
+c:\users\скат\documents\visual studio 2012\Projects\TriangleParams\TriangleParams\obj\Debug\TriangleParams.pdb
