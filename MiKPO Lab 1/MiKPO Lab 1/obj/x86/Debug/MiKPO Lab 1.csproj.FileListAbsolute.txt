@@ -1,0 +1,5 @@
+D:\Projects\MiKPO Lab 1\MiKPO Lab 1\bin\Debug\MiKPO Lab 1.exe
+D:\Projects\MiKPO Lab 1\MiKPO Lab 1\bin\Debug\MiKPO Lab 1.pdb
+D:\Projects\MiKPO Lab 1\MiKPO Lab 1\obj\x86\Debug\MiKPO Lab 1.exe
+D:\Projects\MiKPO Lab 1\MiKPO Lab 1\obj\x86\Debug\MiKPO Lab 1.pdb
+D:\Projects\MiKPO Lab 1\MiKPO Lab 1\obj\x86\Debug\MiKPO Lab 1.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+D:\Projects\MiKPO Lab 1\MiKPO Lab 1 Tests\bin\Debug\MiKPO Lab 1 Tests.dll
+D:\Projects\MiKPO Lab 1\MiKPO Lab 1 Tests\bin\Debug\MiKPO Lab 1 Tests.pdb
+D:\Projects\MiKPO Lab 1\MiKPO Lab 1 Tests\bin\Debug\MiKPO Lab 1.exe
+D:\Projects\MiKPO Lab 1\MiKPO Lab 1 Tests\bin\Debug\MiKPO Lab 1.pdb
+D:\Projects\MiKPO Lab 1\MiKPO Lab 1 Tests\bin\Debug\MiKPO Lab 1_Accessor.exe
+D:\Projects\MiKPO Lab 1\MiKPO Lab 1 Tests\bin\Debug\MiKPO Lab 1_Accessor.pdb
+D:\Projects\MiKPO Lab 1\MiKPO Lab 1 Tests\obj\Debug\MiKPO Lab 1 Tests.csprojResolveAssemblyReference.cache
+D:\Projects\MiKPO Lab 1\MiKPO Lab 1 Tests\obj\Debug\MiKPO Lab 1 Tests.dll
+D:\Projects\MiKPO Lab 1\MiKPO Lab 1 Tests\obj\Debug\MiKPO Lab 1 Tests.pdb
