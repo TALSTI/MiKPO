@@ -147,7 +147,7 @@ namespace MiKPO_Lab_1_Tests
         [TestMethod()]
         public void CorrectTest()
         {
-            Assert.AreEqual(1, Program.GetSide(1, 1, 60));
+            Assert.AreEqual(1, Program.GetSide(1, 1, 60), 0.01);
         }
 
         [TestMethod()]
