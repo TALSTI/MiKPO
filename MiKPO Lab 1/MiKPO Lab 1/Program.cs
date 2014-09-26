@@ -96,7 +96,7 @@ namespace MiKPO_Lab_1
         /// <returns>Возвращает длину третьей стороны треугольника</returns>
         public static double GetSide(double side1, double side2, double angle1)
         {
-            return Math.Round(Math.Sqrt(side1 * side1 + side2 * side2 - 2 * Math.Cos(DegreeToRad(angle1)) * side1 * side2));
+            return Math.Sqrt(side1 * side1 + side2 * side2 - 2 * Math.Cos(DegreeToRad(angle1)) * side1 * side2);
         }
         /// <summary>
         /// Возвращает угол противолижащий строне side2
