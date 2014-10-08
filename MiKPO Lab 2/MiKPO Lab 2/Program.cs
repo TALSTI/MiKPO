@@ -48,7 +48,7 @@ namespace MiKPO_Lab_2
             return result;
         }
 
-        public static Bitmap IntsToColors(List<ImagePart> P)
+        public static Bitmap IntsToColors(BlockingCollection<ImagePart> P)
         {
             Bitmap result = new Bitmap(before.Width, before.Height);
             foreach (ImagePart IP in P)
@@ -113,7 +113,7 @@ namespace MiKPO_Lab_2
                     throw new FileNotFoundException(string.Format("Файл {0} не существует", args[0]), args[0]);
                 before = new Bitmap(args[0]);
                 ApplyFilter(before);
-                after = IntsToColors(PartsAfter.ToList());
+                after = IntsToColors(PartsAfter);
                 after.Save(args[1], System.Drawing.Imaging.ImageFormat.Bmp);
             }
             catch (Exception e)
