@@ -1,0 +1,8 @@
+D:\Projects\MiKPO. Queues console\MiKPO. Queues console\bin\Debug\MiKPO.Queues_console.exe
+D:\Projects\MiKPO. Queues console\MiKPO. Queues console\bin\Debug\MiKPO.Queues_console.pdb
+D:\Projects\MiKPO. Queues console\MiKPO. Queues console\obj\x86\Debug\MiKPO.Queues_console.exe
+D:\Projects\MiKPO. Queues console\MiKPO. Queues console\obj\x86\Debug\MiKPO.Queues_console.pdb
+D:\Projects\GitHub\MiKPO\MiKPO Lab 3\MiKPO. Queues console\MiKPO. Queues console\obj\x86\Debug\MiKPO.Queues_console.exe
+D:\Projects\GitHub\MiKPO\MiKPO Lab 3\MiKPO. Queues console\MiKPO. Queues console\obj\x86\Debug\MiKPO.Queues_console.pdb
+D:\Projects\GitHub\MiKPO\MiKPO Lab 3\MiKPO. Queues console\MiKPO. Queues console\bin\Debug\MiKPO.Queues_console.exe
+D:\Projects\GitHub\MiKPO\MiKPO Lab 3\MiKPO. Queues console\MiKPO. Queues console\bin\Debug\MiKPO.Queues_console.pdb
